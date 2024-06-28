@@ -1,3 +1,4 @@
 # Xylophone
 
-Used Flutter to create a simple musical instrument app which plays Xylophone sounds
+A simple musical instrument app which plays Xylophone sounds.
+- Used Flutter along with Dart to create this mini project
